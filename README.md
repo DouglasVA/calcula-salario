@@ -1,2 +1,2 @@
 # calcula-salario
-how to calculate your salary =p
+how to calculate your $alary =p
